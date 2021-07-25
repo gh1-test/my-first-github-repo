@@ -12,3 +12,5 @@ another new line added locally with different author
 this line added in feature-2
 
 Another modification in the feature 2 branch
+
+another change again
