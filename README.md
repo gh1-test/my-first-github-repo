@@ -5,3 +5,7 @@ This is just a testing repo
 adding a new commit 
 
 manually not going to merged line from both local and remote
+
+
+another new line added locally with different author
+
